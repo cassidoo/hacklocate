@@ -1,0 +1,20 @@
+.map
+{
+	width: 800px;
+	height: 400px;
+	position: fixed;
+	left: 50%;
+	margin-left: -400px;
+}
+
+ul
+{
+	list-style: none;
+	font-size: 10px;
+}
+
+.everythingelse
+{
+	position: fixed;
+	bottom: 0;
+}
